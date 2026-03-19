@@ -1,0 +1,34 @@
+AI大模型许可证类型：
+除了传统的开源软件许可证（如MIT、GPL、Apache、MPL）、知识共享许可证（如CC-BY-4.0、CC-BY-NC-4.0）外，还有AI大模型特定的许可证。
+AI大模型开源许可证：针对AI大模型的特殊性（如模型权重、训练数据）设计的通用许可证，如Llama2、RAIL系列。
+AI大模型商业许可证：单个项目或组织根据特定需求设计的大模型许可证，可以结合多种许可证特点，如Qwen LICENSE、DEEPSEEK LICENSE AGREEMENT。
+
+
+
+热门AI大模型许可证：
+序号 | 许可证 | 数量 | 特点 | 使用该许可证的热门模型
+1 | Apache-2.0 | 240379 | 分发原作品或衍生作品时，可以不提供源码，可以闭源 | whisper- large-v3
+2 | MIT | 89636	没有使用限制，用户可以使用代码，做任何想做的事情，可以闭源 | DeepSeek-R1
+3 | openrail | 35195 | 允许用户自由使用和修改模型，但增加了“责任使用”条款，强调伦理和法律合规，禁止用户滥用模型 | controlNet- v1-1
+4 | creative m1-openrail-m | 26656 | 基于OpenRAIL,增加了对AI生成 图像的具体使用限制，允许使用、修改和分发，但限制某些不道德或有害的用途 | stable-diffusion- v1-4
+5 | L1ama 3 | 21135 | 不得使用L1ama材料或任何L1ama材料的输出结果来改进任何其他 大型语言模型(不包括Llama 3或其派生作品)，商业使用范围对比LLAMA 2更为宽松，在产品 界面显著位置需标注“Llama 3” | Meta-L1ama-3
+6 | CC-BY- NC-4.0 | 12824	允许用户自由使用、修改、分发作品，但仅限于非商业用途 | c4ai-command-r-plus
+7 | L1ama 2 | 9638 | 不得使用L1ama材料或任何L1ama材料的输出结果来改进任何其他大型语言模型(不包括L1ama 2或其派生作品) | Meta-L1ama-2
+8 | gemma | 6229 | 分发衍生作品时，可以不提供源码，可以闭源 | gemma-7b
+9 | CC-BY- 4.0 | 5761 | 允许用户自由使用、修改和分发，包括商业用途。仅需署名原作者，没有额外限制 | roberta-base-squad2
+10 | Openrail++ | 4959 | openrail的增强版，加强了对AI生成内容的责任管理和使用限制 | stable-diffusion- x1-base-1.0
+11 | CC-BY-NC-SA-4.0 | 3434 | 允许用户自由使用、修改和分发，但仅限非商业用途 | IDM-VTON
+12 | AFL-3.0 | 3005 | 分发原作品或衍生作品时，可以不提供源码，可以闭源 | Vistra1-7B- Chat
+13 | CC-BY- SA-4.0 | 2799 | 允许用户自由使用、修改和分发，并且允许商业用途，如果你修改或基于此创建新作品，你必须以相同的许可证发布 | replit-code-v1-3b
+14 | GPL-3.0-on1y | 2404 | 使用GPL-3.0许可的软件，任何修改和衍生作品也必须开源并使用相同的GPL-3.0许可证 | Ziya-LLaMA-13B-v1
+15 | bigscience-bloom-rai1-1.0 | 1426 | 允许自由使用和研究，但可能对商业化有限制 | bloom
+
+
+
+选择建议：
+研究型开源AI项目：MIT; Apache-2.0;
+保持完全开源的AI项目：GPL-3.0;
+开放但限制商业用途：Llama; CC-BY-NC; OpenRAIL++;
+仅限API访问：OpenAI API License;
+商业AI模型：商业许可证;
+数据集共享：CC-BY-4.0; CC-BY-SA-3.0;

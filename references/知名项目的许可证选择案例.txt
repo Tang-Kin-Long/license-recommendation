@@ -1,0 +1,154 @@
+1.MIT License
+MIT许可证是最受欢迎的开源许可证之一，以其简洁性和宽松性著称。它允许几乎任何用途，包括商业使用，只需保留原始版权声明。
+
+适用场景：
+适用于希望代码被广泛使用的项目，包括商业项目。适合个人项目、开源库、工具等。
+
+注意事项：
+⚠️必须在所有副本中包含版权声明和许可证文本
+⚠️不提供任何担保，使用者承担风险
+⚠️允许闭源商业使用
+知名项目：
+jQuery；Rails；Bootstrap；Angular；React；
+jQuery：一个轻量级的JavaScript库，用于简化HTML文档遍历和操作等任务。
+React：Facebook开发的用于构建用户界面的JavaScript库。
+
+兼容协议：
+GPL-3.0；Apache-2.0；BSD-3-Clause；BSD-2-Clause；
+
+2.Apache License 2.0
+Apache 2.0许可证在宽松许可的同时提供了专利保护，是企业级项目的理想选择。它比MIT许可证更详细，但仍然相当宽松。
+
+适用场景:
+适用于企业级项目、需要专利保护的项目。特别适合大型开源项目和商业产品的开源组件。
+
+注意事项:
+⚠️必须保留版权声明和许可证
+⚠️修改文件时需要说明变更
+⚠️提供明确的专利授权
+⚠️不授予商标权利
+
+知名项目:
+Apache HTTP Server；Android；Kubernetes；TensorFlow；Hadoop；
+Apache HTTP Server：世界上最流行的Web服务器之一。
+Hadoop：一个分布式计算框架，用于处理大规模数据集。
+
+兼容协议：
+MIT；BSD-3-Clause；BSD-2-Clause；GPL-3.0；
+
+3.GNU General Public License
+包含GPL-2.0、GPN-3.0、AGPL-3.0等。
+GPL v3.0是最强的copyleft许可证，确保衍生作品保持开源。它在GPL-2.0的基础上，不仅要求分发时公开源代码，还要求使用相同许可证。
+
+适用场景：
+适用于希望确保代码永远保持开源的项目，防止被闭源商业化。适合核心基础设施、操作系统、编程语言等。
+
+注意事项：
+⚠️分发时必须提供完整源代码
+⚠️衍生作品必须使用GPL许可证
+⚠️与其他许可证兼容性有限
+⚠️包含专利保护条款
+
+知名项目：
+GPL-2.0：Linux Kernel；BusyBox；
+GPL-3.0：GCC；Git；WordPress；GIM；LibreOffice；
+AGPL：MongoDB (Community Version)；Nextcloud；
+Linux Kernel：操作系统内核，支持多种硬件平台。
+WordPress：一款基于PHP和MySQL的开源博客平台。
+
+兼容协议：
+GPL-3.0；
+
+4.BSD 3-Clause "New" or "Revised" License
+BSD 3-Clause许可证是经典的宽松许可证，在MIT许可证的基础上增加了禁止使用作者名字推广衍生产品的条款。
+
+适用场景：
+适用于学术项目、研究项目，以及希望保护作者声誉的开源项目。
+
+注意事项：
+⚠️必须保留版权声明
+⚠️不得使用作者名字推广衍生产品
+⚠️允许商业使用和闭源
+⚠️不提供专利保护
+
+知名项目：
+FreeBSD；NetBSD；OpenBSD；nginx；D3.js；
+FreeBSD：一个基于Unix的操作系统。
+OpenBSD：另一个基于Unix的安全操作系统。
+
+兼容协议：
+MIT；Apache-2.0；GPL-3.0；BSD-2-Clause；
+
+5.BSD 2-Clause "Simplified" License
+BSD 2-Clause许可证是最简化的BSD许可证，去除了第三条关于广告的条款，使其更接近MIT许可证。
+
+适用场景：
+适用于希望最大化代码自由度的项目，比3-Clause版本更宽松。
+
+注意事项：
+⚠️必须保留版权声明
+⚠️不包含广告限制条款
+⚠️允许商业使用和闭源
+⚠️与MIT许可证非常相似
+
+知名项目：
+OpenBSD；PostgreSQL；Redis；SQLite；
+
+兼容协议：
+MIT；Apache-2.0；GPL-3.0；BSD-3-Clause；
+
+6.GNU Lesser General Public License v3.0
+LGPL v3.0是GPL的弱copyleft版本，允许专有软件链接到LGPL代码，但修改LGPL代码本身仍需开源。
+
+适用场景：
+适用于库和框架，希望被广泛使用但核心代码保持开源。
+
+注意事项：
+⚠️修改LGPL代码需要开源
+⚠️可以被专有软件动态链接
+⚠️静态链接需要特殊处理
+⚠️包含专利保护条款
+
+知名项目：
+GNU C Library；Qt；FFmpeg；Hibernate；Firefox；MySQL；
+Firefox：Mozilla基金会开发的网页浏览器。
+MySQL：最受欢迎的关系型数据库管理系统之一。
+
+兼容协议：
+GPL-3.0
+
+7.Mozilla Public License 2.0
+MPL 2.0实施文件级copyleft，意味着修改MPL文件需要开源，但可以与其他许可证的文件混合在同一项目中。
+
+适用场景：
+适用于希望核心文件保持开源，但允许与专有代码集成的项目。
+
+注意事项：
+⚠️只有MPL文件的修改需要开源
+⚠️可以与专有代码混合
+⚠️提供专利保护
+⚠️不授予商标权利
+
+知名项目：
+Firefox；Thunderbird；LibreOffice；VLC；
+
+兼容协议：
+GPL-3.0；Apache-2.0；
+
+8.The Unlicense
+Unlicense将作品完全献给公有领域，放弃所有版权，使用者可以做任何事情，无需保留版权声明。
+
+适用场景：
+适用于希望完全放弃版权的小型工具、示例代码、教程代码等。
+
+注意事项：
+⚠️完全放弃版权
+⚠️无需保留任何声明
+⚠️不提供任何保护
+⚠️在某些司法管辖区可能无效
+
+知名项目：
+SQLite；youtube-dl；json.org；stb libraries；
+
+兼容协议：
+MIT；Apache-2.0；BSD-3-Clause；BSD-2-Clause；GPL-3.0；
